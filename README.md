@@ -178,22 +178,9 @@ Thus, can conclude that the motive was successful and the model can be used to d
 * https://www.kingandprince.com/dining-guest-reviews.aspx
 * https://www.tripadvisor.in/Restaurant_Review-g1078423-d948529-Reviews-Martin_Berasategui-Lasarte_Province_of_Guipuzcoa_Basque_Country.html
 
-# Note
 
-* For requirement.txt you can use [pipreqs](https://github.com/bndr/pipreqs)
-* Don't forget to add gunicorn in the requirement.txt because it will give an error if you don't add
-# Contact me
-
-[Linkedln](https://www.linkedin.com/in/abhi7585/)
-[Twitter](https://twitter.com/the_abhi_7585)
+[Linkedln](https://www.linkedin.com/in/hrishabh-joshi-9a9a87250/)
 
 
-# Development and Credits
 
-Want to contribute? Great!
-Feel free to add any issues and pull request.
 
-Credits: 
-Heroku Deployement: @krishnaik06 Youtube Channel
-
-<h3 align="center">Show some &nbsp;❤️&nbsp; by starring this repo! </h3>
